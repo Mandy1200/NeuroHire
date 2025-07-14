@@ -1,0 +1,15 @@
+streamlit
+pymupdf
+nltk
+spacy
+sentence-transformers
+scikit-learn
+torch
+matplotlib
+seaborn
+wordcloud
+altair
+faiss-cpu
+numpy
+pandas
+regex
