@@ -1,5 +1,5 @@
 streamlit
-pymupdf==1.23.9
+pymupdf>=1.26.3
 nltk
 spacy
 sentence-transformers
@@ -10,4 +10,3 @@ numpy
 pandas
 regex
 tempfile
-python-3.10
