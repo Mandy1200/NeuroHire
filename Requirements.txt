@@ -1,5 +1,5 @@
 streamlit
-pymupdf
+PyMuPDF
 nltk
 spacy
 sentence-transformers
