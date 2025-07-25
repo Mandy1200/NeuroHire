@@ -2,7 +2,7 @@
 
 
 streamlit
-PyMuPDF==1.23.9
+PyPDF2
 nltk
 spacy
 sentence-transformers
