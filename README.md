@@ -5,6 +5,11 @@ A modular, NLP-powered AI application for **resume screening**, **job matching**
 NeuroHire transforms the traditional hiring process with deep semantic insights, resume red-flag detection, and a visually guided recruitment dashboard. Recruit smarter, faster, and fairer — powered by real-time machine learning.
 
 ---
+Project Link : https://airecruiterapp.streamlit.app/
+
+Full Website : https://codezens.vercel.app/
+
+Project Demo : https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view?usp=sharing
 
 ## 📌 Features
 
